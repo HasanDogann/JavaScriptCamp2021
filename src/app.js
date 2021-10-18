@@ -28,7 +28,7 @@ function dolar() {
     links.innerHTML = "Yurtdışında iş bul ama acil değil ";
     links.href = "https://www.indeed.com";
     links.target = "_blank";
-    links.hasan = "new2";
+    links.hasan = "new";
   } else {
     text.innerHTML = " Dolar sabit, iyi bari";
   }
